@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-console",
+  "name": "xenious-cordova-plugin-console",
   "version": "1.0.4-dev",
   "description": "Cordova Console Plugin",
   "cordova": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-console"
+    "url": "https://github.com/XeniousSoftware/cordova-plugin-console"
   },
   "keywords": [
     "cordova",
