@@ -17,6 +17,9 @@
     "type": "git",
     "url": "https://github.com/XeniousSoftware/cordova-plugin-console"
   },
+  "bugs": {
+    "url": "https://issues.apache.org/jira/browse/CB"
+  },
   "keywords": [
     "cordova",
     "console",
@@ -36,8 +39,9 @@
   "license": "Apache-2.0",
   "engines": {
     "cordovaDependencies": {
-      "2.0.0": {
-        "cordova": ">100"
+      ">=1.1.0": {
+        "cordova-ios": "<4.5.0",
+        "cordova-windows": "<=5.0.0"
       }
     }
   },
